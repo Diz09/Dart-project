@@ -189,17 +189,17 @@
 // void main() {
 //   print("Nama Anda : ");
 //   String n = stdin.readLineSync()!;
-//   print("Peran yang dipilih (warior, mage, warewolf) :");
+//   print("Peran yang dipilih (guard, penyihir, warewolf) :");
 //   String p = stdin.readLineSync()!;
 
 //   if (n.isEmpty) {
 //     print("Tolong masukkan nama anda!!");
 //   } else if (p.isEmpty) {
 //     print("Halo $n, Tolong pilih dari salah satu peran yang ada!!");
-//   } else if (p == "warior") {
+//   } else if (p == "guard") {
 //     print("Selamat Datang di Dunia Warewolf, $n");
 //     print("Halo $p $n, kamu akan melindungi temanmu dari serangan warewolf!");
-//   } else if (p == "mage") {
+//   } else if (p == "penyihir") {
 //     print("Selamat Datang di Dunia Warewolf, $n");
 //     print("Halo $p $n, kamu dapat melihat siapa yang menjadi warewolf!");
 //   } else if (p == "warewolf") {
@@ -348,4 +348,49 @@
 //     }
 //     print(baris);
 //   }
+// }
+
+//acara 9
+
+// void main() {
+//   t();
+// }
+// t(){
+//   print("Hello world");
+// }
+
+// void main() {
+//   print(k());
+// }
+// k() {
+//   return 2;
+// }
+
+// void main() {
+//   print(kalidua(6));
+// }
+// kalidua(a){
+//   return a * 2;
+// }
+
+// void main() {
+//   print(kali(5,6));
+// }
+// kali(a,b) {
+//   return a * b;
+// }
+
+// void main() {
+//   tampil(5);
+// }
+// tampil(n1,{s1=45}) {
+//   print(n1);
+//   print(s1);
+// }
+
+// void main() {
+//   print(functionKali(5,8));
+// }
+// functionKali(x,y){
+//   return x*y;
 // }

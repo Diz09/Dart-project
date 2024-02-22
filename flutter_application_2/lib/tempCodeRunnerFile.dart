@@ -1,9 +1,6 @@
 void main() {
-  for (int i = 1; i <= 7; i++) {
-    String baris = '';
-    for (int j = 0; j < i; j++) {
-      baris += '#';
-    }
-    print(baris);
-  }
+  print(functionKali(5,8));
+}
+functionKali(x,y){
+  return x*y;
 }
