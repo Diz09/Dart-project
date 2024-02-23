@@ -394,3 +394,14 @@
 // functionKali(x,y){
 //   return x*y;
 // }
+
+//acara 10
+
+// void main(List<String> args) {
+//   double set, alas, tinggi;
+//   set = 0.5; alas = 20.0; tinggi = 30.0;
+//   var LSegitiga = set * alas * tinggi;
+
+//   print(LSegitiga);
+// }
+

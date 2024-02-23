@@ -1,8 +1,8 @@
-import 'A10_enkapsulasi/lingkaran.dart';
+import 'lingkaran.dart';
 
 void main() {
   // Contoh penggunaan class Lingkaran
-  Lingkaran lingkaran = Lingkaran(7); // Contoh nilai negatif
+  Lingkaran lingkaran = Lingkaran(-7); // Contoh nilai negatif
   print('Radius lingkaran: ${lingkaran.rad}');
   print('Luas lingkaran: ${lingkaran.L()}');
 
